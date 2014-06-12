@@ -4,5 +4,3 @@ This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
 by [Adam Kearney] (http://adamjameskearney.com)
-
-This is my first time using Git Hub.
